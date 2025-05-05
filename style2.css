@@ -36,7 +36,6 @@ body {
   border-bottom: 3px solid rgb(224, 102, 31);
   display: flex;
   justify-content: flex-end;  
-  align-items: center;  
   padding-right: 20px; 
 }
 
